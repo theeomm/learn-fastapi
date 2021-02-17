@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/theeomm/.local/share/virtualenvs/fastapi-9_HXrTNq/bin/python",
+    "python.formatting.provider": "black"
+}
